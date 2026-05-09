@@ -11,5 +11,5 @@ main:
   - title: "CV"
     url: /cv/
     
- - title: "Lecture Notes"
+  - title: "Lecture Notes"
     url: /teaching/ 
