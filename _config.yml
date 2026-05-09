@@ -30,10 +30,11 @@ author:
   location         : "Seoul, South Korea"
   employer         : "Korea University"
   uri              : # URL
+  
   links:
     - label: "kudals0909@korea.ac.kr"
-      icon: "fas fa-envelope"
-      url: "mailto:kudals0909@korea.ac.kr"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:kudals0909@korea.ac
 
   # Academic websites
   academia         : # URL
