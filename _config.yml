@@ -233,6 +233,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  lecture-notes:
+    output: true
+    premalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -290,6 +293,13 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+   # _lecture notes
+  - scope:
+      path: ""
+      type: lecture-notes
+    values:
+      layout: single
+      author_profile: true
 
 
 # Sass/SCSS
