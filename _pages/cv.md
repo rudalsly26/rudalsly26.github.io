@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 ## Education
-**B.A. in Philosophy**, Korea University, Mar. 2020 - Aug. 2026 \\ 
+**B.A. in Philosophy**, Korea University, Mar. 2020 - Aug. 2026   
 **M.A. in Economics**, Korea University, Set. 2026 -
 
 ## Research Interests
