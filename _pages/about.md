@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-M.A. student in Economics at Korea University.  **Research interests**: Macroeconomics, International Finance, Economic growth, Econometrics
+M.A. student in Economics at Korea University.   **Research interests**: Macroeconomics, International Finance, Economic growth, Econometrics
 
 ---
 
