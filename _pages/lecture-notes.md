@@ -5,7 +5,7 @@ permalink: /lecture-notes/
 author_profile: true
 ---
 
-If you find any error, please feel free to reach out.
+If you find any errors, please feel free to reach out.
 
 ---
 
