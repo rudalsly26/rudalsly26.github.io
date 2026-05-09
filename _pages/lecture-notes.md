@@ -16,4 +16,6 @@ If you find any errors, please feel free to reach out.
 
 ## Econometric Analysis
 
+Notes from graduate econometrics coursework.
+
 *Coming soon*
