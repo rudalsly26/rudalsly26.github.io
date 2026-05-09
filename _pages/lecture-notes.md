@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 .page__content {
-  min-height: 60vh;
+  min-height: 100vh;
 }
 </style>
 
