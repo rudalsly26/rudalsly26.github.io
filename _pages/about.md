@@ -17,5 +17,4 @@ M.A. student in Economics at Korea University.<br>Research interests: Macroecono
 ## Contact
 
 📧 [kudals0909@korea.ac.kr](mailto:kudals0909@korea.ac.kr)  
-📄 [CV](/files/cv.pdf)  
 💻 [GitHub](https://github.com/rudalsly26)  
