@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-bio: M.A. student in Economics at Korea University.<br>**Research interests**: Macroeconomics, International Finance, Economic growth, Econometrics
+bio: M.A. student in Economics at Korea University.<br>**Research interests**: Macroeconomics, International Finance, Economic Growth, Econometrics
 
 ---
 
