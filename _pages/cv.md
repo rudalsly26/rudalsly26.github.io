@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-📄 **[Download CV (PDF)](/files/CV_03Apr2026.pdf)**
+📄 **[Download CV (PDF)](/files/cv.pdf)**
 
 *Last updated: Apr 2026*
 
@@ -23,4 +23,4 @@ redirect_from:
 - Economic Growth
 - Econometrics
 
-For full details, please see the [PDF version](/files/CV_03Apr2026.pdf).
+For full details, please see the [PDF version](/files/cv.pdf).
