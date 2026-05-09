@@ -235,7 +235,7 @@ collections:
     permalink: /:collection/:path/
   lecture-notes:
     output: true
-    premalink: /:collection/:path/
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
