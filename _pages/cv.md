@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 📄 **[Download CV (PDF)](/files/cv.pdf)**
 
-*Last updated: Apr 2026*
+*Last updated: May 2026*
 
 ---
 
