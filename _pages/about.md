@@ -10,18 +10,7 @@ redirect_from:
 
 ## About
 
-bio: M.A. student in Economics at Korea University.<br>Research interests: Macroeconomics, International Finance, Economic Growth, Econometrics
-
----
-
-## Working Papers
-
----
-
-## Lecture Notes
-
-I share notes from courses I've taken. Feel free to use them, 
-and let me know if you find any errors!
+M.A. student in Economics at Korea University.<br>Research interests: Macroeconomics, International Finance, Economic Growth, Econometrics
 
 ---
 
