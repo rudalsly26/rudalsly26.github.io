@@ -25,7 +25,7 @@ redirect_from:
 | Linear Algebra I | MATH221 | Spring, 2024 | A+ | *Linear Algebra* by Friedberg |
 | Linear Algebra II | MATH222 | Fall, 2025 | A | *Linear Algebra* by Friedberg |
 | Topology I | MATH161 | Spring, 2025 | A+ | *Topology* by Munkres |
-| Differential Equations | MATH240 | Fall, 2025 | A+ | *Calculus* by Boyce |
+| Differential Equations | MATH240 | Fall, 2025 | A+ | *Boyce's Elementary Differential Equations and Boundary Value Problems* by Boyce |
 | Set Theory | MATH201 | Fall, 2022 | A+ | *A Book of Set Theory* by Pinter |
 | Calculus I | MATH161 | Summer, 2024 | A+ | *Thomas' Calculus* by Thomas |
 | Calculus II | MATH162 | Fall, 2023 | A+ | *Calculus* by Stewart |
@@ -36,17 +36,17 @@ redirect_from:
 | :--- | :---: | :---: | :---: | :--- |
 | Mathematical Statistics | STAT232 | Fall, 2025 | A+ | *Mathematical Statistics with Application* by Wackerly |
 | Introduction to Probability Theory | STAT221 | Fall, 2023 | A+ | *Essentials of Probability for Statistics* by Choi |
-| Statistical Machine Learning | STAT424 | Fall, 2025 | A+ | Lecture notes <br> *The Elements of Statistical Learning* by Hastie, Tibshirani, and Friedman <br> *Reproducing Kernel Hilbert Spaces in Probability and Statistics* by Berlinet and Thomas-Agnan (background readings) |
+| Statistical Machine Learning | STAT424 | Fall, 2025 | A+ | Lecture notes; <br> *The Elements of Statistical Learning* by Hastie et al.; <br> *Reproducing Kernel Hilbert Spaces in Probability and Statistics* by Berlinet and Thomas-Agnan; (background readings) |
 
 ### Economics Courses (Undergraduate)
 
 | Course Title | Course Number | Term | Grade | Textbook |
 | :--- | :---: | :---: | :---: | :--- |
-| Intermediate Microeconomics | Econ201 | Winter, 2022 | A+ | *Microeconomics* by Jungoo Lee |
-| Intermediate Macroeconomics | Econ202 | Fall, 2022 | A | *Macroeconomics* by Jongwha Lee and Kwanho Shin |
+| Intermediate Microeconomics | ECON201 | Winter, 2022 | A+ | *Microeconomics* by Jungoo Lee |
+| Intermediate Macroeconomics | ECON202 | Fall, 2022 | A | *Macroeconomics* by Jongwha Lee and Kwanho Shin |
 | Econometrics I | ECON301 | Fall, 2023 | A+ | *Introductory Econometrics: A Modern Approach* by Wooldridge |
 | Econometrics II | ECON302 | Spring, 2024 | A+ | *Introduction to modern time series analysis* by Kirchgässner |
-| Research on Dynamic Macroeconomics | ECON436 | Fall, 2025 | A+ | Lecture notes and selected papers <br> *Foundations of International Macroeconomics* by Obstfeld and Rogoff <br> *Monetary Policy, Inflation, and the Business Cycle* by Galí <br> *Open Economy Macroeconomics* by Uribe and Schmitt-Grohé (background readings) |
+| Research on Dynamic Macroeconomics | ECON436 | Fall, 2025 | A+ | Lecture notes and selected papers; <br> *Foundations of International Macroeconomics* by Obstfeld and Rogoff; <br> *Monetary Policy, Inflation, and the Business Cycle* by Galí; <br> *Open Economy Macroeconomics* by Uribe and Schmitt-Grohé; (background readings) |
 | Economics of Strategy and Information | ECON324 | Fall, 2023 | A | Lecture notes |
 | Asymmetric Information and Incentive Desin | ECON330 | Fall, 2023 | A+ | Lecture notes |
 
