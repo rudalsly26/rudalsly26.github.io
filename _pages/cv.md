@@ -36,7 +36,7 @@ redirect_from:
 | :--- | :---: | :---: | :---: | :--- |
 | Mathematical Statistics | STAT232 | Fall, 2025 | A+ | *Mathematical Statistics with Application* by Wackerly |
 | Introduction to Probability Theory | STAT221 | Fall, 2023 | A+ | *Essentials of Probability for Statistics* by Choi |
-| Statistical Machine Learning | STAT424 | Fall, 2025 | A+ | Lecture notes <br> *The Elements of Statistical Learning* by Hastie, Tibshirani, and Friedman, and <br> *Reproducing Kernel Hilbert Spaces in Probability and Statistics* by Berlinet and Thomas-Agnan (background readings) |
+| Statistical Machine Learning | STAT424 | Fall, 2025 | A+ | Lecture notes <br> *The Elements of Statistical Learning* by Hastie, Tibshirani, and Friedman <br> *Reproducing Kernel Hilbert Spaces in Probability and Statistics* by Berlinet and Thomas-Agnan (background readings) |
 
 ### Economics Courses (Undergraduate)
 
