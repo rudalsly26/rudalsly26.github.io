@@ -72,7 +72,7 @@ redirect_from:
 | Econometrics II | ECON302 | Spring, 2024 | A+ | "Introduction to modern time series analysis" by Kirchgässner |
 | Research on Dynamic Macroeconomics | ECON436 | Fall, 2025 | A+ | Lecture notes and selected papers; <br> "Foundations of International Macroeconomics" by Obstfeld and Rogoff; <br> "Monetary Policy, Inflation, and the Business Cycle" by Galí; <br> "Open Economy Macroeconomics" by Uribe and Schmitt-Grohé; (background readings) |
 | Economics of Strategy and Information | ECON324 | Fall, 2023 | A | Lecture notes |
-| Asymmetric Information and Incentive Desin | ECON330 | Fall, 2023 | A+ | Lecture notes |
+| Asymmetric Information and Incentive Design | ECON330 | Fall, 2023 | A+ | Lecture notes |
 
 </div>
 
