@@ -12,7 +12,6 @@ redirect_from:
 
 B.A. in Philosophy at Korea University<br>M.A. in Economics at Korea University (ongoing)<br>Research interests: Macroeconomics, International Finance, Economic Growth, Econometrics
 
----
 
 ## Contact
 
