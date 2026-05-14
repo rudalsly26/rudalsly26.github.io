@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-B.A. in Philosophy at Korea University<br>M.A. student in Economics at Korea University<br>Research interests: Macroeconomics, International Finance, Economic Growth, Econometrics
+B.A. in Philosophy at Korea University<br>M.A. in Economics at Korea University (ongoing)<br>Research interests: Macroeconomics, International Finance, Economic Growth, Econometrics
 
 ---
 
