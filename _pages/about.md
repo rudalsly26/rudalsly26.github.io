@@ -8,11 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-## About
+## Personal
 
-B.A. in Philosophy at Korea University<br>M.A. in Economics at Korea University (ongoing)<br>Research interests: Macroeconomics, International Finance, Economic Growth, Econometrics
-
+B.A. in Philosophy at Korea University<br>M.A. in Economics at Korea University (ongoing)
 
 ## Contact
 
 Email: [kudals0909@korea.ac.kr](mailto:kudals0909@korea.ac.kr)  
+
+## Research interests
+
+Macroeconomics, International Finance, Economic Growth, Econometrics
+
+[KU International Finance and Macroeconomics Reading Group](https://sites.google.com/view/intl-finance-macro/home)
+[KU Behavioral Macroeconomics Reading Group](https://sites.google.com/view/behavioralmacro/)
+[Second Asian Conference on Expectations in Macroeconomics (ACEM 2026)](https://sites.google.com/view/acem2026/home?authuser=0)(student staff)
+[2025 World Congress of the Econometric Society (ESWC 2025)](https://www.eswc2025.org/)(student staff)
