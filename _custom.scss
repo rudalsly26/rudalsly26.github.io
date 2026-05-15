@@ -1,11 +1,3 @@
 .page__content {
   min-height: 60vh;
 }
-
-.page__content h2#activities + ul {
-  overflow-x: auto;
-}
-
-.page__content h2#activities + ul li {
-  white-space: nowrap;
-}
