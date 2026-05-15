@@ -15,6 +15,7 @@ B.A. in Philosophy at Korea University<br>M.A. in Economics at Korea University 
 ## Contact
 
 Email: [kudals0909@korea.ac.kr](mailto:kudals0909@korea.ac.kr)  
+Github: [rudalsly26](https://github.com/rudalsly26)
 
 ## Research interests
 
