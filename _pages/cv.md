@@ -40,7 +40,7 @@ redirect_from:
 | Real Analysis II | MATH212 | Fall, 2025 | A+ | "Principles of Mathematical Analysis" by Rudin |
 | Linear Algebra I | MATH221 | Spring, 2024 | A+ | "Linear Algebra" by Friedberg |
 | Linear Algebra II | MATH222 | Fall, 2025 | A | "Linear Algebra" by Friedberg |
-| Topology I | MATH161 | Spring, 2025 | A+ | "Topology" by Munkres |
+| Topology I | MATH333 | Spring, 2025 | A+ | "Topology" by Munkres |
 | Differential Equations | MATH240 | Fall, 2025 | A+ | "Boyce's Elementary Differential Equations and Boundary Value Problems" by Boyce |
 | Set Theory | MATH201 | Fall, 2022 | A+ | "A Book of Set Theory" by Pinter |
 | Calculus I | MATH161 | Summer, 2024 | A+ | "Thomas' Calculus" by Thomas |
