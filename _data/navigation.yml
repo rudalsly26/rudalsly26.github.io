@@ -13,3 +13,6 @@ main:
     
   - title: "Lecture Notes"
     url: /lecture-notes/
+    
+  - title: "Codes"
+    url: /sample-codes/
