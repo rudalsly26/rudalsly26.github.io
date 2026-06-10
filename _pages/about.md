@@ -23,7 +23,7 @@ Macroeconomics, International Finance, Economic Growth, Econometrics
 
 ## Activities
 
-- [**KU International Finance and Macroeconomics Reading Group**](https://sites.google.com/view/intl-finance-macro/home)<br>
+- [**KU International Finance and Macroeconomics Reading Group**](https://sites.google.com/view/intl-finance-macro/home)&nbsp;(presenter)<br>
 - [**KU Behavioral Macroeconomics Reading Group**](https://sites.google.com/view/behavioralmacro/)<br>
 - [**Second Asian Conference on Expectations in Macroeconomics (ACEM 2026)**](https://sites.google.com/view/acem2026/home?authuser=0)&nbsp;(student staff)<br>
 - [**2025 World Congress of the Econometric Society (ESWC 2025)**](https://www.eswc2025.org/)&nbsp;(student staff)
